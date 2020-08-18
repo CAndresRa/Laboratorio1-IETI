@@ -1,6 +1,9 @@
 # Laboratorio1-IETI
 
-La presencia de este documento en este repositorio es un compromiso explícito de los colaboradores de seguir el siguiente código de honor:
+# Autor
+
+#### Carlos Andrés Ramírez Torres
+#### IETI grupo 2
 
 # Uso
 
@@ -9,6 +12,9 @@ Una vez clonado el repositorio utilice los siguientes comando en terminal
 * ```npm i``` Para instalar todos los paquetes que se necesitan para el correcto funcionamiento
 * ```npm start``` Para iniciar el servidor y poder acceder mediante el browser a la aplicación web
 * Desde el browser ingrese a la siguiente dirección ```http://localhost:3000/```
+
+
+La presencia de este documento en este repositorio es un compromiso explícito de los colaboradores de seguir el siguiente código de honor:
 
 Código de Honor
 ------
